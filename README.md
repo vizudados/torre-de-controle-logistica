@@ -4,7 +4,7 @@ Ativos públicos da capa cinematográfica de um dashboard Power BI de torre de c
 O repositório guarda apenas as mídias da capa; o dashboard usa dados fictícios de demonstração.
 
 - `assets/capa-loop-logistica-*.mp4` — filme de uma operação logística em quatro cenas (centro de distribuição,
-  armazém, estrada e entrega), laço de ~20 s com dissolves, 1920×620, H.264, mudo.
+  armazém, estrada e entrega), laço de ~18 s com dissolves, 1920×620, H.264, mudo.
 - `assets/poster-logistica-*.jpg` — quadro da primeira cena com o mesmo tratamento (poster / movimento reduzido).
 - `assets/manifest.json` — tamanho, SHA-256 e origem de cada arquivo.
 

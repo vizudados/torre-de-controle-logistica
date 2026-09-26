@@ -1,0 +1,19 @@
+{
+    "projeto": "torre-de-controle-logistica",
+    "gerado_em": "2026-09-26T06:14:52",
+    "base_url": "https://vizudados.github.io/torre-de-controle-logistica/",
+    "arquivos": [
+        {
+            "file": "assets/capa-loop-logistica-f41bd9e69419.mp4",
+            "bytes": 4218518,
+            "sha256": "f41bd9e69419db212f862e1d02004a75723c85b9889fc46c93b6db0ae9ecaf2a",
+            "origem": "Kling 2.5, 4 cenas de 5 s geradas por IA; recorte 1920x620, cor unica, desfoque de pseudo-textos, dissolves de 0,5 s e laco sem salto; H.264 High CRF 23 1920x620 24 fps, 18,2 s, mudo, faststart"
+        },
+        {
+            "file": "assets/poster-logistica-05e1277c413f.jpg",
+            "bytes": 161082,
+            "sha256": "05e1277c413f7510995acb26098735e08aef447ec5827608813445f5e596e6e4",
+            "origem": "quadro da cena 1 com o mesmo tratamento do video, 1920x620"
+        }
+    ]
+}
