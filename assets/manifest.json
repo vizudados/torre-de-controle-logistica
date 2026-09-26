@@ -1,6 +1,6 @@
 {
     "projeto": "torre-de-controle-logistica",
-    "gerado_em": "2026-09-26T07:13:42",
+    "gerado_em": "2026-09-26T11:11:56",
     "base_url": "https://vizudados.github.io/torre-de-controle-logistica/",
     "arquivos": [
         {
@@ -44,6 +44,18 @@
             "bytes": 670974,
             "sha256": "b2b8e1d07a705ec4689663018cacc79ec796551920a59337ea5d5ecf4ef1de6d",
             "origem": "papel de parede da base: arte de traco gerada por IA (Magnific, GPT 2) estendida e vetorizada no Adobe (generative expand + vectorize), limpa e tingida de navy; 2404x576"
+        },
+        {
+            "file": "assets/capa-filme-laco-1c9995bc3c75.mp4",
+            "bytes": 4937164,
+            "sha256": "1c9995bc3c75528144b722669e66d8ed256668e58710957d33e26c957068b790",
+            "origem": "filme v4 da capa, em laço contínuo: as cenas 1–3 da v2 (Kling 2.5, IA) + cena 4 nova (Kling 2.5, IA: caminhão chegando a um estacionamento de supermercado, espelhada, pseudo-textos apagados por máscara rastreada); recorte 1920x620, cor única, dissolves de 0,5 s e laço sem salto; H.264 High CRF 23, 24 fps, 18,2 s, mudo, faststart. O mapa é desenhado pelo dashboard por cima (HTML)."
+        },
+        {
+            "file": "assets/poster-laco-05e1277c413f.jpg",
+            "bytes": 161082,
+            "sha256": "05e1277c413f7510995acb26098735e08aef447ec5827608813445f5e596e6e4",
+            "origem": "primeiro quadro do filme v4 (poster; o mesmo quadro do poster da v2), 1920x620"
         }
     ]
 }
