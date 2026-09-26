@@ -1,6 +1,6 @@
 {
     "projeto": "torre-de-controle-logistica",
-    "gerado_em": "2026-09-26T06:14:52",
+    "gerado_em": "2026-09-26T07:13:42",
     "base_url": "https://vizudados.github.io/torre-de-controle-logistica/",
     "arquivos": [
         {
@@ -14,6 +14,36 @@
             "bytes": 161082,
             "sha256": "05e1277c413f7510995acb26098735e08aef447ec5827608813445f5e596e6e4",
             "origem": "quadro da cena 1 com o mesmo tratamento do video, 1920x620"
+        },
+        {
+            "file": "assets/capa-filme-logistica-ecc22f3926f9.mp4",
+            "bytes": 4699170,
+            "sha256": "ecc22f3926f91a26e8e4d72e55684a9da2645c7e827c2929c9ced7db2d9aa5d4",
+            "origem": "filme v3 da capa: as 4 cenas do v2 (Kling 2.5, IA) + palco do mapa da Paraiba tracado do Sertao ao litoral (HyperFrames 0.8.78); 1920x620, 24 fps, 23 s, sem laco (termina no mapa), H.264 High CRF 23, mudo, faststart"
+        },
+        {
+            "file": "assets/poster-inicio-3c330df60934.jpg",
+            "bytes": 109979,
+            "sha256": "3c330df60934a4f53d03b56947b40e82d27caee71aebbd414986a935c052cb14",
+            "origem": "primeiro quadro do filme v3 (poster)"
+        },
+        {
+            "file": "assets/palco-vazio-0a7e18fab80f.jpg",
+            "bytes": 10741,
+            "sha256": "0a7e18fab80fcf54fa5ef1bfc8def6915d08761d3b48daf7178798fa5b7628d1",
+            "origem": "quadro de 17,625 s do filme v3: palco sem o mapa (poster quando o recorte e filtrado)"
+        },
+        {
+            "file": "assets/palco-mapa-d94b8a5bb16c.jpg",
+            "bytes": 92170,
+            "sha256": "d94b8a5bb16c5e342c7e42ae64ee61891e56aee24c445e4d3b28cd8c0fc79fa6",
+            "origem": "ultimo quadro do filme v3: palco com o mapa neutro (movimento reduzido e falha do video)"
+        },
+        {
+            "file": "assets/papel-de-parede-logistica-b2b8e1d07a70.svg",
+            "bytes": 670974,
+            "sha256": "b2b8e1d07a705ec4689663018cacc79ec796551920a59337ea5d5ecf4ef1de6d",
+            "origem": "papel de parede da base: arte de traco gerada por IA (Magnific, GPT 2) estendida e vetorizada no Adobe (generative expand + vectorize), limpa e tingida de navy; 2404x576"
         }
     ]
 }
